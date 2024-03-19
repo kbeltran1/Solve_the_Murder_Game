@@ -1,1 +1,2 @@
 # Solve_the_Murder_Game
+Hello, My name is Kelly Beltran and I have created a police murder mystery game. Your goal is to go through each chapter and complete tasks and ask questions to see if you can find out what happend and who the killer is? You will go through five chapters each with tasked that are essential to solving the murder. Good Luck!!! Throughout this game I have used different elements I learned throughout the course to create a overall interesting and smooth flowing game. I hope you enjoy and I am open to any suggestions on how I can improve.
