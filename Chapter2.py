@@ -1,5 +1,6 @@
 print("Welcome to Chapter 2")
 # Setting the scene before Officer Dean
+print("Officer Dean steps out of his car")
 print("Rain can be heard hitting the pavement, the wind howling in the distance")
 print("Stepping out of his patrol car Officer Dean sees Officer Brian West \nlaying on the ground surround by a pool of blood")
 print("his partner Officer Veronica Hath sitting next to him.")
@@ -64,4 +65,7 @@ while choice != questions:
     elif choice == "4":
         print("Lets start looking around and try to find some evidence?")
         break
+    else:
+        print("This is not an option, please chose an option from above")
+        choice = input("Where should I do? ")
 # Move on to Chapter 3
