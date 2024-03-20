@@ -8,7 +8,7 @@ print("Radio music playing softly in the background along with radio chatter")
 print("When suddenly over the radio all that is heard is Officer down, I repeat Officer down")
 print()
 
-choice = int(input("Do you want to ask a question, talk to dispatch or turn on your sirens and lights? "))
+choice = int(input("Do you want to: \nAsk a question: Enter 1 \nTalk to dispatch: Enter 2 \nTurn on your sirens and lights: Enter 3? "))
 question = "1"
 dispatch = "2"
 lights_siren = "3"
