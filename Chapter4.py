@@ -91,4 +91,8 @@ while station_room != " ":
     elif station_room == "0":
         print(enter_room.walk_to_car())
         break
+    else:
+        print("This is not an option, please chose an option from above")
+        station_room = input("Where should I go? ")
+
 # Move on to Chapter 5
