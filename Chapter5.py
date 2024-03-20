@@ -1,6 +1,6 @@
 print("Welcome to Chapter 5")
 print()
-print("The nest day Dean sat at his desk, listening to the chatter, the fingers pressing again keys, and murmurs of people talking about what happened")
+print("The next day Dean sat at his desk, listening to the chatter, the fingers pressing again keys, and murmurs of people talking about what happened")
 print()
 print("(After some time Dean gets up from his desk to see if any new information is available)")
 
@@ -93,3 +93,7 @@ while new_info != "":
         print("Leo Davis, 32, was arrested for the shooting anf murder of Officer Brian West")
         print("Detective: Good job Officer Dean, thank you for all the help")
         break
+
+    else:
+        print("This is not an option, please chose an option from above")
+        new_info = input("Where should I check? ")
