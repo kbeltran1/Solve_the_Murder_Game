@@ -54,5 +54,8 @@ while evidence_found != " ":
     elif evidence_found == "0":
         print("Now that we have found all the evidence available, We just need to wait for the detective to arrive to let them know of my findings")
         break
+    else:
+        print("This is not an option, please chose an option from above")
+        evidence_found = input("Which direction should I walk in ")
 
 # Move on to Chapter 4
